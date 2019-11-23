@@ -1,6 +1,6 @@
 getwd()
 #setting the window directory
-setwd("c:\\Users\\NANDU\\Desktop\\Projects-Even Sem 2019\\Minor Project\\Modified")
+setwd("c:\\Users\\DivyanshJain\\Desktop\\Projects-Even Sem 2019\\Minor Project\\Modified")
 getwd()
 #Read data from Data.csv file and store in dataset(Data Frame)
 dataset <- read.csv("outbreaks.csv")
